@@ -1,0 +1,8 @@
+{
+  "name": "my-code-standards",
+  "description": "My personal coding standards and conventions, packaged as skills that guide Claude to write code the way I do.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Calvin Williams"
+  }
+}

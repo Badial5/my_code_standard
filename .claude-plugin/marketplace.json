@@ -1,0 +1,14 @@
+{
+  "name": "my-code-standards-marketplace",
+  "description": "Marketplace for my personal coding standards and conventions plugin.",
+  "owner": {
+    "name": "Calvin Williams"
+  },
+  "plugins": [
+    {
+      "name": "my-code-standards",
+      "source": "./",
+      "description": "My personal coding standards and conventions, packaged as skills that guide Claude to write code the way I do."
+    }
+  ]
+}
